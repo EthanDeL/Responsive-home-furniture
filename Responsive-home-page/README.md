@@ -12,4 +12,4 @@
     * 👉 : https://cdnjs.com/libraries/remixicon
  
 
- <img width="443" alt="miniature" src="https://github.com/EthanDeL/Responsive-home-furniture/assets/121880462/1e35a234-d14c-4c00-b32d-18c668ef33c7">
+<img width="715" alt="miniature" src="https://github.com/EthanDeL/Responsive-home-furniture/assets/121880462/53bc5abb-1da3-4368-907c-f116de6b2a4c">
